@@ -3,7 +3,7 @@
   "version": "4.0.0",
   "description": "Bundled plugins for a standard setup of Wordpress with Municipio",
   "repository": "git@github.com:municipio-se/municipio-bundle-standard.git",
-  "license": "MIT",
+  "license": "AGPL",
   "private": true,
   "devDependencies": {
     "prettier": "^2.0.5"
